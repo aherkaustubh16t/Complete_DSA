@@ -52,9 +52,9 @@ public class Problem3_Good_Turn {
             int Y = sc.nextInt();
 
             if (X + Y > 6) {
-                System.out.println("Yes");
+                System.out.println("YES");
             } else {
-                System.out.println("No");
+                System.out.println("NO");
             }
         }
 

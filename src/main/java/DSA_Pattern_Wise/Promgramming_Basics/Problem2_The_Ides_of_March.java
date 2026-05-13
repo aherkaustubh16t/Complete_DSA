@@ -37,9 +37,9 @@ public class Problem2_The_Ides_of_March {
         int N = sc.nextInt();
 
         if (N == 15) {
-            System.out.println("Yes");
+            System.out.println("YES");
         } else {
-            System.out.println("No");
+            System.out.println("NO");
         }
 
         sc.close();
